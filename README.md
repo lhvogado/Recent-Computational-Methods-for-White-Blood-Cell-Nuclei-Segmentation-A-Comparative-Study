@@ -28,3 +28,17 @@ simple arithmetic operations and region growing are the approaches most widely u
 computational methods have not yet overcome all the challenges posed by this problem.
 
 Full paper at https://www.sciencedirect.com/science/article/pii/S0169260718311064
+
+Cite with bibtex.
+
+@article{ANDRADE20191,
+title = "Recent computational methods for white blood cell nuclei segmentation: A comparative study",
+journal = "Computer Methods and Programs in Biomedicine",
+volume = "173",
+pages = "1 - 14",
+year = "2019",
+issn = "0169-2607",
+doi = "https://doi.org/10.1016/j.cmpb.2019.03.001",
+url = "http://www.sciencedirect.com/science/article/pii/S0169260718311064",
+author = "Alan R. Andrade and Luis H.S. Vogado and Rodrigo de M.S. Veras and Romuere R.V. Silva and Flávio H.D. Araujo and Fátima N.S. Medeiros",
+}
